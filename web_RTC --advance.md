@@ -1,4 +1,4 @@
-# WebRTC (Web Real-Time Communication) — Complete Notes  // till rtc and srtp
+# WebRTC (Web Real-Time Communication) — Complete Notes  
 
 > Short, revision-focused notes. Focus is on **what each component does**, not implementation steps.
 
