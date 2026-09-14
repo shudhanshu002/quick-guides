@@ -1,6 +1,7 @@
 # WebRTC (Web Real-Time Communication) — Complete Notes  // till rtc
 
 -- not went into too deep just to peer.js
+-- add a new def
 
 > Short, revision-focused notes. Focus is on **what each component does**, not implementation steps.
 
